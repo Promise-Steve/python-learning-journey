@@ -253,7 +253,7 @@ This repository is primarily intended for learning and portfolio purposes. Sugge
 
 # Author
 
-**Promise Steve**
+**Chukwuemeka Somtochukwu Promise**
 
 Public Health Researcher | Python Learner | Data Analyst | AI & Health Innovation Enthusiast
 
