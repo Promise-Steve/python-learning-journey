@@ -176,6 +176,19 @@ Topics covered:
 - Data extraction
 
 ---
+## Lesson 7 — Python Data Structures
+
+Topics covered:
+
+- Lists
+- Tuples
+- Sets
+- Dictionaries
+- CRUD operations on collections
+- Business and healthcare applications
+- Choosing the appropriate data structure for different scenarios
+
+---
 
 # Technologies Used
 
@@ -231,17 +244,13 @@ As I continue my Python learning journey, this repository will be expanded to in
 
 - Functions
 - Loops
-- Lists
-- Tuples
-- Dictionaries
-- Sets
 - File handling
 - Exception handling
 - Object-Oriented Programming (OOP)
+- Modules and Packages
 - Data analysis with Pandas
 - Data visualisation
-- Python automation projects
-- Mini real-world applications
+- Automation with Python
 
 ---
 
