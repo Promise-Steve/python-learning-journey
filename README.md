@@ -189,6 +189,27 @@ Topics covered:
 - Choosing the appropriate data structure for different scenarios
 
 ---
+## Lesson 8 — Decision Making in Python
+
+Topics covered:
+
+- if statements
+- if...else statements
+- if...elif...else statements
+- Logical operators
+- Comparison chaining
+- Conditional expressions
+- Building decision-making programs
+
+---
+
+### Mini Project
+
+**Secure Employee Access Verification System**
+
+This mini project combines variables, user input, logical operators, and conditional statements to simulate an employee authentication and access control system.
+
+---
 
 # Technologies Used
 
