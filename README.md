@@ -210,6 +210,26 @@ Topics covered:
 This mini project combines variables, user input, logical operators, and conditional statements to simulate an employee authentication and access control system.
 
 ---
+## Lesson 9 — Mastering for Loops
+
+Topics covered:
+
+- for loops
+- range()
+- Looping through lists
+- Nested loops
+- break statements
+- for...else
+- Counter variables
+- Practical automation exercises
+
+### Mini Project
+
+**Hospital Patient Monitoring System**
+
+A practical project demonstrating how to automate patient monitoring using for loops, conditional statements, counters, and meaningful program output.
+
+---
 
 # Technologies Used
 
