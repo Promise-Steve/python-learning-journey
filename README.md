@@ -230,6 +230,103 @@ Topics covered:
 A practical project demonstrating how to automate patient monitoring using for loops, conditional statements, counters, and meaningful program output.
 
 ---
+## Lessons 10–12: Building Practical Python Skills
+
+After completing the foundational Python concepts and introductory loops, the learning journey progresses into more advanced control flow, reusable code, and error management.
+
+### Lesson 10 — While Loops
+
+This lesson builds on the earlier introduction to loops by focusing on condition-controlled repetition using `while` loops.
+
+Key concepts include:
+
+* `while` loops
+* Loop conditions
+* Counters and variable updates
+* Loop control
+* `break`
+* Infinite loops
+* Practical applications of `while` loops
+
+### Lesson 10B — Nested While Loops
+
+This lesson extends while-loop logic by introducing nested loops, where one `while` loop operates inside another.
+
+Practical exercises include:
+
+* E-Commerce Product Combination Generator
+* Banking Transaction Risk Checker
+* Hospital Appointment Scheduling Matrix
+
+These exercises demonstrate how nested loops can be applied to combinations, comparisons, monitoring, and scheduling problems.
+
+### Lesson 11 — Python Functions
+
+This lesson introduces functions as a way of organising code into reusable blocks.
+
+Key areas include:
+
+* Defining functions
+* Calling functions
+* Parameters and arguments
+* Returning values
+* Reusable logic
+* Combining functions with loops and other Python concepts
+
+The hands-on exercises apply functions to realistic scenarios involving employee salary processing, patient information, e-commerce orders, data entry, and command-line systems.
+
+### Lesson 12 — Errors, Debugging & Exception Handling
+
+This lesson introduces techniques for identifying, managing, and preventing errors in Python programs.
+
+Key concepts include:
+
+* Python errors and exceptions
+* Debugging
+* `try`
+* `except`
+* `raise`
+* `ValueError`
+* Input validation
+* Exception handling
+
+Practical applications include hospital patient data validation, e-commerce order processing, and banking transaction validation.
+
+---
+
+## Learning Progression
+
+The journey is now progressing from basic Python syntax toward practical problem-solving:
+
+```text
+Python Fundamentals
+        ↓
+Variables & Data Types
+        ↓
+Operators & Input
+        ↓
+Boolean Logic
+        ↓
+Strings
+        ↓
+Data Structures
+        ↓
+Conditional Statements
+        ↓
+For Loops & Loop Control
+        ↓
+While Loops
+        ↓
+Nested While Loops
+        ↓
+Functions
+        ↓
+Errors, Debugging & Exception Handling
+        ↓
+Practical Projects
+```
+
+The goal is not simply to learn Python syntax, but to progressively develop the ability to use Python to solve practical problems in business, healthcare, research, data, and automation.
 
 # Technologies Used
 
